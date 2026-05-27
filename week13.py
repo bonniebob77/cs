@@ -1,2 +1,7 @@
-name = input("이름 입력 : ")
-print(f"제 이름은 {name}입니다")
+import tkinter as tk
+
+window = tk. Tk()
+window.title("My first window")
+window.geometry("600x300")
+window.mainloop()
+
