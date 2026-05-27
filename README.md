@@ -1,0 +1,1 @@
+This remote repository is a temporary repository for Git/GitHub practice in the Cloud Services class during the Spring 2062 semester.
